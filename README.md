@@ -11,3 +11,4 @@ Para más información sobre esta clase, por favor dirigirse al aula virtual.
 # Clases
 
 Clase 1 | Febrero 18, 2021 | Introducción a NLP y logística de la clase | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase1.html)
+Clase 2 | Febrero 25, 2021 | Adquisición de Textos | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase2.html)
