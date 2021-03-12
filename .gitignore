@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Local files
+/Users/vivianamarquez/Desktop/NLP/NLP\ 2021-I/NLP-KL-2021-I/archivos/glove.6B.300d.txt 
