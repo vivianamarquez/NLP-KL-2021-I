@@ -16,4 +16,5 @@ Clase 3 | Marzo 4, 2021 | Web Scraping & Limpieza de textos | [Link](http://vivi
 Clase 4 | Marzo 11, 2021 | Pre-Procesamiento de texto & FE | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase4.html)
 Clase 5 | Marzo 18, 2021 | TF-IDF & Medidas de Similitud | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase5.html)
 Clase 6 | Marzo 25, 2021 | Word2Vec | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase6.html)
-Clase 7 | Abril 8, 2021 | Modelos de clasificación | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase7.html)
+Clase 7 | Abril 8, 2021 | Métricas de evaluación | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase7.html)
+Clase 8 | Abril 15, 2021 | Modelos de clasificación | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase8.html)

@@ -131,3 +131,5 @@ dmypy.json
 
 # Local files
 archivos/glove.6B.300d.txt 
+archivos/word2vec/
+talleres/soluciones/taller3-fun.ipynb
