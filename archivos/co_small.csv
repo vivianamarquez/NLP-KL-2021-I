@@ -1,0 +1,33 @@
+city,lat,lng,country,iso2,admin,capital,population,population_proper
+Bogotá,4.649178,-74.062827,Colombia,CO,Bogotá,primary,7772000,6333661
+Medellín,6.25184,-75.563591,Colombia,CO,Antioquia,admin,3297000,1999979
+Cali,3.437222,-76.5225,Colombia,CO,Valle del Cauca,admin,2254000,2178836
+Barranquilla,10.963889,-74.796389,Colombia,CO,Atlántico,admin,1798000,1244491
+Bucaramanga,7.125393,-73.119804,Colombia,CO,Santander,admin,1009000,571820
+Cartagena,10.399722,-75.514444,Colombia,CO,Bolívar,admin,887000,887000
+Cúcuta,7.893907,-72.507821,Colombia,CO,Norte de Santander,admin,722146,721398
+Pereira,4.813333,-75.696111,Colombia,CO,Risaralda,admin,568750,440118
+Santa Marta,11.240791,-74.19904,Colombia,CO,Magdalena,admin,431781,402641
+Ibagué,4.438889,-75.232222,Colombia,CO,Tolima,admin,421685,408627
+Pasto,1.213611,-77.281111,Colombia,CO,Nariño,admin,382236,360041
+Manizales,5.06889,-75.517383,Colombia,CO,Caldas,admin,375848,357814
+Villavicencio,4.142002,-73.626645,Colombia,CO,Meta,admin,374763,321717
+Neiva,2.927299,-75.281885,Colombia,CO,Huila,admin,352855,284277
+Armenia,4.533889,-75.681111,Colombia,CO,Quindío,admin,315328,314267
+Valledupar,10.46314,-73.253224,Colombia,CO,Cesar,admin,308237,287018
+Montería,8.747984,-75.881428,Colombia,CO,Córdoba,admin,275198,272420
+Sincelejo,9.304722,-75.397778,Colombia,CO,Sucre,admin,261187,218388
+Popayán,2.444444,-76.613889,Colombia,CO,Cauca,admin,258750,258750
+Tunja,5.535278,-73.367778,Colombia,CO,Boyacá,admin,161412,117479
+Ríohacha,11.544444,-72.907222,Colombia,CO,La Guajira,admin,133186,92431
+Florencia,1.614382,-75.606229,Colombia,CO,Caquetá,admin,130337,44861
+Quibdó,5.694722,-76.661111,Colombia,CO,Chocó,admin,92780,75104
+Arauca,7.084512,-70.755366,Colombia,CO,Arauca,admin,69264,23797
+Yopal,5.337752,-72.395859,Colombia,CO,Casanare,admin,61029,61029
+Leticia,-4.215278,-69.940556,Colombia,CO,Amazonas,admin,59575,32450
+San Andrés,12.584722,-81.700556,Colombia,CO,San Andrés y Providencia,admin,58257,58257
+San José del Guaviare,2.572858,-72.645914,Colombia,CO,Guaviare,admin,22136,21214
+Mocoa,1.149327,-76.64661,Colombia,CO,Putumayo,admin,22035,22035
+Puerto Carreño,6.189031,-67.485879,Colombia,CO,Vichada,admin,10216,5861
+Mitú,1.257778,-70.234722,Colombia,CO,Vaupés,admin,5917,5917
+Inírida,3.865278,-67.923889,Colombia,CO,Guainía,admin,,
