@@ -20,3 +20,4 @@ Clase 7 | Abril 8, 2021 | Métricas de evaluación | [Link](http://vivianamarque
 Clase 8 | Abril 15, 2021 | Modelos de clasificación | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase8.html)
 Clase 9 | Abril 22, 2021 | Modelos de agrupación | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase9.html)
 Clase 10 | Abril 29, 2021 | Modelado de temas | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase10.html)
+Clase 11 | Mayo 6, 2021 | Visualizaciones | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase11.html)
