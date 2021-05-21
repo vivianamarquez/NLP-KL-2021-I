@@ -22,4 +22,4 @@ Clase 9 | Abril 22, 2021 | Modelos de agrupación | [Link](http://vivianamarquez
 Clase 10 | Abril 29, 2021 | Modelado de temas | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase10.html)
 Clase 11 | Mayo 6, 2021 | Visualizaciones | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase11.html)
 Clase 12 | Mayo 13, 2021 | Redes Sociales | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase12.html)
-Clase 13 | Mayo 20, 2021 | Análisis de Sentimiento | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase12.html)
+Clase 13 | Mayo 20, 2021 | Análisis de Sentimiento | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase13.html)
