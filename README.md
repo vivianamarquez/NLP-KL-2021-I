@@ -24,3 +24,4 @@ Clase 11 | Mayo 6, 2021 | Visualizaciones | [Link](http://vivianamarquez.com/NLP
 Clase 12 | Mayo 13, 2021 | Redes Sociales | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase12.html)
 Clase 13 | Mayo 20, 2021 | Análisis de Sentimiento | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase13.html)
 Clase 14 | Mayo 27, 2021 | Redes Neuronales & Transformers | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase14.html)
+Clase 15 & 16 | Junio 2021 | Estudios de caso NLP | [Link](http://vivianamarquez.com/NLP-KL-2021-I/html/clase16.html)
